@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322834229416",
+    "firebase_url": "https://project310-9fc0a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "project310-9fc0a",
+    "storage_bucket": "project310-9fc0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322834229416:android:d9123031f902fbdc9cfa9d",
+        "android_client_info": {
+          "package_name": "com.example.project310"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322834229416-76v9von2b5iadoeicj28pqo5gi4l63gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS71DO0FxZQ1XobbXp6H8OQ35Ylhw4sr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322834229416-76v9von2b5iadoeicj28pqo5gi4l63gl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322834229416-r0t33qvgujv0gr56urg9iucj118cj6ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project310"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
